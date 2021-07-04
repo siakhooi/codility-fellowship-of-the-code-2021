@@ -6,7 +6,7 @@
 - Given a string and an integer K, return the lexicographically minimum string that can be achieved by applying at most K swaps of adjacent letters.
 
 - <https://app.codility.com/programmers/challenges/fellowship_of_the_code_2021/>
-- <https://app.codility.com/programmers/task/partial_sorts/>
+- <https://app.codility.com/programmers/task/partial_sort/>
 
 ## Versions
 
@@ -25,7 +25,7 @@
 | ---- | --------------------- | ---------- | ------------------------------------------ | ------ | --------------------------------------------------------------------------------- |
 | `D`  | BTree/Sorted Segments | `B1`, `C1` | `O(N * log(min(N, K)))` or `O(N * log(N))` | `Good` | [7S455K](https://app.codility.com/cert/view/cert7S455K-BW5AM4QP597S83WT/details/) |
 
-### Silver Award
+### Silver Awards
 
 | Code | Description                    | base | Result Complexity                          | Result | Report                                                                            |
 | ---- | ------------------------------ | ---- | ------------------------------------------ | ------ | --------------------------------------------------------------------------------- |
